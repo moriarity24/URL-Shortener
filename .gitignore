@@ -1,0 +1,22 @@
+# Binaries
+*.exe *.exe
+*.exe~ *.exe~
+*.dll *.dll
+*.so *.so
+*.dylib *.dylib
+bin/ bin/
+dist/ dist/
+# Go # Go
+*.test *.test
+*.out *.out
+go.work go.work
+# Environment variables # Environment variables
+.env .env
+# IDE # IDE
+.vscode/ .vscode/
+.idea/ .idea/
+*.swp *.swp
+*.swo *.swo
+# OS # OS
+.DS_Store .DS_Store
+Thumbs.db 
