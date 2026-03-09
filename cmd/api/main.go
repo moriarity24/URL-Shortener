@@ -1,5 +1,5 @@
 package main
-// testing webhoo
+// testing webhooks
 import (
 	"fmt"
 	"log"
